@@ -1,0 +1,6 @@
+data/online_retail_enriched.csv
+data/avis.csv
+data/orders.json
+data/clients.json
+__pycache__/
+*.pyc
